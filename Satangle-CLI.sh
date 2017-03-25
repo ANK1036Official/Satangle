@@ -83,7 +83,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 		if [[ $2 = "3" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe3
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
@@ -93,7 +93,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 	if [[ $2 = "4" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe4
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
@@ -103,7 +103,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 	if [[ $2 = "5" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe5
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
@@ -113,7 +113,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 	if [[ $2 = "6" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe6
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
@@ -123,7 +123,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 	if [[ $2 = "7" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe7
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
@@ -133,7 +133,7 @@ if [[ $1 = "--file" ]]; then
 	fi
 	if [[ $2 = "8" ]]; then
 		echo "Downloading file..."
-		$FiLe2
+		$FiLe8
 		echo "Note: The CLI version of Satangle currently only supports a reverse TCP meterpreter."
 		echo "What port do you wanna use?"
 		read -p "Satangle-CLI>> " PORTARG
